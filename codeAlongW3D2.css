@@ -1,0 +1,45 @@
+
+
+.input-section {
+    width: 60%;
+    padding-top: 10px;
+    background-color: #ffeeee;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#form-submit-button {
+    margin-bottom: 15px;
+}
+
+.my-flexbox {
+    height: 2000px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.pics {
+    
+    height:20%;
+    object-fit: cover;
+}
+
+#red-div {
+    position: absolute;
+    top: 370px;
+    right: 0px;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    z-index: 2;
+}
+
+#blue-div {
+    position: absolute;
+    top: 400px;
+    right: 30px;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
