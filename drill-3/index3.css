@@ -1,0 +1,73 @@
+body {
+    background-color: white;
+}
+header{
+    background-color: rgb(193, 193, 193);
+    width: 100vw;
+    height: 95px;
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-top:-8px;
+}
+.lil-box{
+    background-color: rgb(99, 99, 220);
+    height: 65px;
+    width: 65px;
+    float:left;
+    margin-top: 13px;
+    margin-left: 18px;
+}
+.p{
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: left;
+}
+.p1{
+    margin-top: 25px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 60px;
+    text-align: left;
+}
+.blue{
+    background-color: rgb(99, 99, 220);
+    width:100vw;
+    height:300px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.seafoam{
+    background-color: rgb(95, 232, 225);
+    width:100vw;
+    height:300px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.yb{
+    background-color: rgb(195, 235, 136);
+    width:100vw;
+    height:300px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.yellow{
+    background-color: yellow;
+    width:100vw;
+    height:300px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.lil_box2{
+    background-color: rgb(99, 99, 220);
+    height: 65px;
+    width: 65px;
+    float: right;
+    /* margin-bottom: 40px; */
+    margin-left: 13px;
+    border-left: 15px;
+    position: sticky;
+    /* border-bottom: 50px; */
+    bottom: 0px; 
+    border-radius: 100%;
+}
